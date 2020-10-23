@@ -3,6 +3,7 @@ Elektrobit Workshop Neural Networks
 
 # Step 1: Installation
 1. Install docker desktop [Docker_Desktop](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+    * Make sure you have virtualization (Hyper-V) enabled in your BIOS
 2. Download docker file
   1. Start Windows Powershell
   2. run command `docker pull schmiederx/workshop:latest`

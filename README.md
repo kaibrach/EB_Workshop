@@ -15,6 +15,6 @@ Elektrobit Workshop Neural Networks
 # Step 3: Start Jupyter Notebook 
 Start tensorflow container with jupyter notebooks in cmd/Powershell:
 1. Open Windows Powershell
-2. navigate to the directory of the workshop folder 
+2. navigate to the directory of the workshop folder e.g. `cd C:\tmp\Workshop`
 3. `docker run -it --rm -v "$(pwd):/tf" -p 8888:8888 -p 6006:6006 schmiederx/workshop:latest`
 4. Copy the http link from the command line and past it to the webrowser

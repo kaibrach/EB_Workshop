@@ -8,9 +8,10 @@ Elektrobit Workshop Neural Networks
    1. Start Windows Powershell
    2. run command `docker pull schmiederx/workshop:latest`
 
-# Step 2: Clone the repository
+# Step 2: Clone or Download (if you do not have GIT installed) the repository
 1. Create a workshop folder somewhere e.g. `C:\tmp\Workshop`
-2. git clone https://github.com/kaibrach/EB_Workshop.git
+2. Clone `git clone https://github.com/kaibrach/EB_Workshop.git`
+3. Download: `https://github.com/kaibrach/EB_Workshop/archive/main.zip`
 
 # Step 3: Start Jupyter Notebook 
 Start tensorflow container with jupyter notebooks in cmd/Powershell:

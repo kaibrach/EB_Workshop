@@ -29,10 +29,12 @@ You can either choose to create a **virtual environment (recommended)** or use a
 > 5. Install all necessary python packages `pip install -r requirements.txt`
 
 ### Step 3. Run Jupyter Notebook
-> 6. Create a Jupyter Kernel with `python -m ipykernel install --user --name EB_WORKSHOP --display-name "EB Workshop"`    
-    The --name value is used by Jupyter internally. These commands will overwrite any existing kernel with the same name. --display-name is what you see in the notebook menus.
+Start jupyter notebooks in cmd/Powershell:
+> 6. Run `jupyter notebook` from console
 
-> 7. Run `jupyter notebook` from console
+> **Hint**: Create a Jupyter Kernel (**only once**) with `python -m ipykernel install --user --name EB_WORKSHOP --display-name "EB Workshop"`    
+    The --name value is used by Jupyter internally. These commands will overwrite any existing kernel with the same name. --display-name is what you see in the notebook menus. 
+    This kernel can be selected within the notebook 
 
 
 ## 2.2 Using Docker

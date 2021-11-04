@@ -26,7 +26,7 @@ You can either choose to create a **virtual environment (recommended)** or use a
 
 > 4. Once you’ve created a virtual environment, you may activate it `eb_workshop-env\Scripts\activate`
 
-> 5. Install all necessary python packages `pip install -r /path/to/requirements.txt`
+> 5. Install all necessary python packages `pip install -r requirements.txt`
 
 ### Step 3. Run Jupyter Notebook
 > 6. Create a Jupyter Kernel with `python -m ipykernel install --user --name EB_WORKSHOP --display-name "EB Workshop"`    

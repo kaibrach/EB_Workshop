@@ -12,7 +12,7 @@ OR
 
 
 # 2. Prepare your System
-You can either choose to create a **virtual environment (recommended)** or use a **docker** file.
+You can either choose to create a `virtual environment`(recommended)** or use a `docker` file.
 ## 2.1 Using Virtual Environment
 
 ### Step 1. Installation
